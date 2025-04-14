@@ -16,7 +16,7 @@ Comprehensive solutions covering:
 
 ## 🚀 Progress
 
-**Solved:** 3/150 problems  
+**Solved:** 5/150 problems  
 *(Continually updated)*
 
 ## 🛠 Technical Details
