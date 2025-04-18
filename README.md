@@ -9,6 +9,7 @@ My solutions to the Blind 150 algorithmic problems - an essential collection for
 ## 📌 Overview
 
 Comprehensive solutions covering:
+
 - All fundamental data structures
 - Core algorithm paradigms
 - Interview problem patterns
@@ -16,7 +17,7 @@ Comprehensive solutions covering:
 
 ## 🚀 Progress
 
-**Solved:** 11/150 problems  
+**Solved:** 12/150 problems  
 *(Continually updated)*
 
 ## 🛠 Technical Details
@@ -33,12 +34,15 @@ Comprehensive solutions covering:
 - [NeetCode Blind 150](https://neetcode.io/practice)
 
 ## 🤝 Contribution Guidelines
+
 Welcome:
+
 - Optimizations for existing solutions
 - Additional solution approaches
 - Bug reports
 
-Please discuss via issues before major PRs.
+Please discuss via issues before major PRs
+
 ---
 
-*"Mastering algorithms is the foundation of computational thinking."*
+*Mastering algorithms is the foundation of computational thinking.*
